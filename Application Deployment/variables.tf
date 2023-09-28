@@ -15,7 +15,7 @@ variable "sg-name" {
     description = "Name for Security group"
 }
 
-variable "cidr" {
+variable "vpc-cidr" {
     description = "Value for cidr"
     default = "10.0.0.0/16"
 }
