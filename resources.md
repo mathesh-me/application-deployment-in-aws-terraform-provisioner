@@ -1,6 +1,12 @@
 ### Step 3 : Planning and Creating resources
 
-1. Copy the resource files from my [repository](https://github.com/mathesh-me/application-deployment-in-aws-terraform/tree/main/Application%20Deployment) and paste it like i've done.
-2. It is important to create new files for every individual resorces , Dont't paste every resource in a single file
-3. You can customize all the files as per your need
-4. Create a new file with name variables.tf and copy variable.tf
+1. Copy the resource files from my [repository](https://github.com/mathesh-me/application-deployment-in-aws-terraform/tree/main/Application%20Deployment) and paste them as I have done.
+2. It is important to create new files for each individual resource; do not paste every resource into a single file.
+3. You can customize each file as needed.
+4. Copy [variable.tf](https://github.com/mathesh-me/application-deployment-in-aws-terraform/blob/main/Application%20Deployment/variables.tf) and paste it into a new file named variables.tf.
+5. Create a terraform.tfvars file and assign values to variables like [this](https://github.com/mathesh-me/application-deployment-in-aws-terraform/blob/main/Application%20Deployment/terraform.tfvars).
+6. Finally, your folder should resemble the picture below.
+
+
+![a1 1](https://github.com/mathesh-me/application-deployment-in-aws-terraform/assets/144098846/e788ef54-da2a-4288-bef6-14a056a3bec2)
+
