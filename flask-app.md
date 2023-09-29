@@ -1,4 +1,4 @@
-### Step 5 : Flask Application deployment 
+### Step 5 : Flask Application 
 
 1. After completing Step 4, we need to deploy our Flask app's source code.
 2. Create a new directory and, within that directory, create a new file named 'app.py.'
