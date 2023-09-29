@@ -1,4 +1,4 @@
-### Step 7 : Deploy the Application :
+### Step 7 : Deploy the Application
 
 1. Before going to do this step , We have to look at the below code
 
