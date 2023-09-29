@@ -27,3 +27,22 @@ This project includes detailed documentation and a README that guides users thro
 2.Familiarity with Terraform and infrastructure as code principles.
 3.An AWS account with appropriate permissions.
 4.An IDE of your Choice , I would suggest VS Code Editor .
+
+## Steps:
+| Step No | Document Link |
+| ------ | ------ |
+| 1 | [Setting Up the Environment][Step-1] |
+| 2 | [Installing the neccessary plugins][Step-2] |
+| 3 | [Creating resource configuration files][Step-3] |
+| 4 | [Providing values to resources][Step-4] |
+| 5 | [Flask Application][Step-5] |
+| 6 | [Getting a Link as Output][Step-6] |
+| 7 | [Deploying the Application][Step-7] |
+
+   [Step-1]: <./setup.md>
+   [Step-2]: <./providers.md>   
+   [Step-3]: <./resources.md>
+   [Step-4]: <./variables.md>
+   [Step-5]: <./flask-app.md>   
+   [Step-6]: <./outputs.md>
+   [Step-7]: <./deployment.md>
