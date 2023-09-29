@@ -1,4 +1,4 @@
-### Step 3 : Planning and Creating resources
+### Step 3 : Creating resource configuration files
 
 1. Copy the resource files from my [repository](https://github.com/mathesh-me/application-deployment-in-aws-terraform/tree/main/Application%20Deployment) and paste them as I have done.
 2. It is important to create new files for each individual resource; do not paste every resource into a single file.
