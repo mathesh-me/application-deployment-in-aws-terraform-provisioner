@@ -27,10 +27,10 @@ Implemented AWS security best practices, including IAM role assignments and secu
 This project includes detailed documentation and a README that guides users through setting up and customizing the Terraform code for their specific applications.
 
 ## Prerequistes:
-1.Basic knowledge of AWS services and concepts.
-2.Familiarity with Terraform and infrastructure as code principles.
-3.An AWS account with appropriate permissions.
-4.An IDE of your Choice , I would suggest VS Code Editor .
+1. Basic knowledge of AWS services and concepts.<br>
+2. Familiarity with Terraform and infrastructure as code principles.<br>
+3. An AWS account with appropriate permissions.<br>
+4. An IDE of your Choice , I would suggest VS Code Editor .<br>
 
 ## Steps:
 | Step No | Document Link |
