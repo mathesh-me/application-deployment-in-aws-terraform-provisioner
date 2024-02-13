@@ -23,9 +23,6 @@ Because of Terraform , I can Scale my resources up or down effortlessly with Ter
 ### Security by Design: 
 Implemented AWS security best practices, including IAM role assignments and security group configurations, to maintain a secure deployment environment.
 
-### Comprehensive Documentation: 
-This project includes detailed documentation and a README that guides users through setting up and customizing the Terraform code for their specific applications.
-
 ## Prerequistes:
 1. Basic knowledge of AWS services and concepts.<br>
 2. Familiarity with Terraform and infrastructure as code principles.<br>
